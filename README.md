@@ -11,6 +11,6 @@ Hi there! 👋 I'm Adithya
 
 • Game Engines: Unity, Unreal Engine
 
-• Languages: C#, C++, HTML, CSS, JavaScript
+• Languages: C#, C++, JavaScript
 
 • Web Dev: Wix Studio, WordPress
