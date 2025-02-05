@@ -2,7 +2,7 @@ Hi there! 👋 I'm Adithya
 
 🎮 Aspiring Game Developer | Unity & Unreal Engine
 
-🏢 Co-founder of Vincere Technology
+🏢 Founder of Vincere Technology
 
 🌐 Web Developer | Wix Studio & WordPress
 
