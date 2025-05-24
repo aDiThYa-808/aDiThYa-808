@@ -1,5 +1,5 @@
 # 💫 About Me:
-🏢 Founder of Vincere Technology<br>🎮 Developer | Unity & Unreal Engine<br>📱 Android Developer | Flutter<br>🌐 Web Developer | Wix Studio & WordPress
+🏢 Founder of Vincere Technology<br>🎮 Game Developer | Unity & Unreal Engine<br>📱 Android Developer | Flutter<br>🌐 Web Developer | Wix Studio & WordPress
 
 
 ## 🌐 Socials:
