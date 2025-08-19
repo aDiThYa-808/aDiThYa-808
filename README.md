@@ -47,7 +47,7 @@ const adithya: Developer = {
 
 ### 🛠️ Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,nextjs,flutter,supabase,postgresql,express" />
+  <img src="https://skillicons.dev/icons?i=unity,nextjs,nestjs,flutter,supabase,postgresql,express" />
 </p>
 
 ### 🔧 Additional Technologies
