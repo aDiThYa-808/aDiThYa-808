@@ -2,8 +2,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Adithya
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Founder%20%26%20CPO&fontSize=80&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Vincere%20Technology&descAlignY=55&descSize=20"/>
-
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Web+Developer+%7C+Game+Developer;Building+AI+Legal+Assistant+-+Clausia;Creating+Next-Gen+SaaS+Tools;)
 
 </div>
