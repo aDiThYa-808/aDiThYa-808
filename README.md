@@ -28,7 +28,7 @@ const adithya: Developer = {
   role: "Founder & Chief Product Officer",
   currentProject: "Clausia - AI Legal Assistant",
   interests: ["SaaS Development", "Game Development", "AI Innovation"],
-  vision: "Building the future, one line of code at a time ✨"
+  vision: "To build software that simplifies and enhances people's lives ✨"
 };
 ```
 
