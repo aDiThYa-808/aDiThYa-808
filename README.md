@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Adithya
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Web+Developer+%7C+Game+Developer;Building+AI+Legal+Assistant+-+Clausia;Creating+Next-Gen+SaaS+Tools;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Web+Developer+%7C+Game+Developer;Building+testAPI+-+create+mock+APIs+for+testing;Creating+Next-Gen+SaaS+Tools;)
 
 </div>
 
@@ -26,7 +26,7 @@ const adithya: Developer = {
   location: "Bengaluru, India 🇮🇳",
   company: "Vincere Technology",
   role: "Founder & Chief Product Officer",
-  currentProject: "Clausia - AI Legal Assistant",
+  currentProject: "testAPI - create mock APIs for testing.",
   interests: ["SaaS Development", "Game Development", "AI Innovation"],
   vision: "To build software that simplifies and enhances people's lives ✨"
 };
@@ -71,7 +71,7 @@ const adithya: Developer = {
 ### 🤖 Clausia - AI Legal Assistant
 *AI legal assistant for indie app/game devs*
 
-![AI Assistant](https://img.shields.io/badge/AI%20Legal%20Assistant-In%20Development-FF6B9D?style=for-the-badge&logo=openai&logoColor=white)
+![AI Assistant](https://img.shields.io/badge/AI%20Legal%20Assistant-Deployed-34A853?style=for-the-badge&logo=openai&logoColor=white)
 
 </td>
 <td width="50%">
