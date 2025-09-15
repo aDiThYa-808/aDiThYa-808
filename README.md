@@ -26,7 +26,7 @@ const adithya: Developer = {
   location: "Bengaluru, India 🇮🇳",
   company: "Vincere Technology",
   role: "Founder & Chief Product Officer",
-  currentProject: "testAPI - create mock APIs for testing.",
+  currentProject: "Ghost - Local chaos testing tool with real time metrics.",
   interests: ["SaaS Development", "Game Development", "AI Innovation"],
   vision: "To build software that simplifies and enhances people's lives ✨"
 };
