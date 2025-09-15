@@ -2,7 +2,7 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Adithya
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Web+Developer+%7C+Game+Developer;Building+testAPI+-+create+mock+APIs+for+testing;Creating+Next-Gen+SaaS+Tools;)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Developer+%7C+Game+Developer;Building+Ghost+-+Local+chaos+testing+tool.;Creating+Next-Gen+SaaS+Tools;)
 
 </div>
 
