@@ -89,38 +89,6 @@ const adithya: Developer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px"> GitHub Analytics
-
-<div align="center">
-
-<br>
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aDiThYa-808&theme=react&border=FF6B9D&stroke=FF6B9D&ring=FFE66D&fire=FF6B9D&currStreakLabel=FFE66D&sideNums=FFFFFF&currStreakNum=FFFFFF&sideLabels=FFFFFF&dates=FFFFFF&background=0D1117)
-
-<br>
-
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=aDiThYa-808&theme=react-dark&bg_color=0D1117&color=FF6B9D&line=FFE66D&point=FF6B9D&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
-## <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="30px"> Achievements
-
-<div align="center">
-
-![Profile Views](https://komarev.com/ghpvc/?username=aDiThYa-808&color=FF6B9D&style=for-the-badge&label=Profile+Views)
-![GitHub followers](https://img.shields.io/github/followers/aDiThYa-808?color=FF6B9D&logoColor=white&style=for-the-badge&logo=github&label=Followers)
-![GitHub User's stars](https://img.shields.io/github/stars/aDiThYa-808?color=FFE66D&logoColor=white&style=for-the-badge&logo=github&label=Total%20Stars)
-
-<br>
-
-![Trophy](https://github-profile-trophy.vercel.app/?username=aDiThYa-808&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=2&column=4)
-
-</div>
-
----
-
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="40px"> Connect With Me
 
 <div align="center">
@@ -150,20 +118,5 @@ const adithya: Developer = {
 </td>
 </tr>
 </table>
-
-</div>
-
----
-
-<div align="center">
-
-### 💭 Quote of the Moment
-*"The only way to do great work is to love what you do."* - Steve Jobs
-
-<br>
-
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=1000&color=FF6B9D&background=FFFFFF00&center=true&vCenter=true&width=500&lines=Thanks+for+visiting+my+profile!;Let's+build+something+amazing+together!;Always+learning%2C+always+growing+%F0%9F%9A%80)
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
 
 </div>
