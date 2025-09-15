@@ -68,18 +68,18 @@ const adithya: Developer = {
 <tr>
 <td width="50%">
 
-### 🤖 Clausia - AI Legal Assistant
+### Clausia - AI Legal Assistant
 *AI legal assistant for indie app/game devs*
 
-![AI Assistant](https://img.shields.io/badge/AI%20Legal%20Assistant-Deployed-34A853?style=for-the-badge&logo=openai&logoColor=white)
+![AI Assistant](https://img.shields.io/badge/Vercel-Deployed-34A853?style=for-the-badge&logo=vercel&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🎮 Pandemonium - Android Game
-*A horror game made using unity*
+### testapi-cli
+*An npm package to create and manage mock APIs*
 
-![Play Store](https://img.shields.io/badge/Google%20Play-Published-34A853?style=for-the-badge&logo=google-play&logoColor=white)
+![NPMJS](https://img.shields.io/badge/npm-Published-34A853?style=for-the-badge&logo=npm&logoColor=white)
 
 </td>
 </tr>
