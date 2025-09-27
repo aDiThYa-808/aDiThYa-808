@@ -58,34 +58,6 @@ const adithya: Developer = {
 
 ---
 
-## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="30px"> Featured Projects
-
-<div align="center">
-
-<table>
-<tr>
-<td width="50%">
-
-### Clausia - AI Legal Assistant
-*AI privacy policy generator for indie app/game devs*
-
-![AI Assistant](https://img.shields.io/badge/Vercel-Deployed-34A853?style=for-the-badge&logo=vercel&logoColor=white)
-
-</td>
-<td width="50%">
-
-### testapi-cli
-*An npm package to create and manage mock APIs*
-
-![NPMJS](https://img.shields.io/badge/npm-Published-34A853?style=for-the-badge&logo=npm&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-</div>
-
----
 
 ## <img src="https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/handshake.gif" width="40px"> Connect With Me
 
