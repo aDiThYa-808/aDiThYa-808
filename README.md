@@ -2,8 +2,6 @@
 
 # <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> Hey, I'm Adithya
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&duration=3000&pause=1000&color=FF6B9D&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=800&height=120&lines=Full+Stack+Developer+%7C+Game+Developer;Building+Ghost+-+Local+chaos+testing+tool.;Creating+Next-Gen+SaaS+Tools;)
-
 </div>
 
 ---
@@ -23,12 +21,12 @@ interface Developer {
 
 const adithya: Developer = {
   name: "Adithya",
-  location: "Bengaluru, India 🇮🇳",
+  location: "Bengaluru, India",
   company: "Vincere Technology",
   role: "Founder & Chief Product Officer",
-  currentProject: "Ghost - Local chaos testing tool with real time metrics.",
-  interests: ["SaaS Development", "Game Development", "AI Innovation"],
-  vision: "To build software that simplifies and enhances people's lives ✨"
+  currentProject: "golang http server",
+  interests: ["Backend Development", "Game Development", "AI Innovation"],
+  vision: "To build software that simplifies and enhances people's lives"
 };
 ```
 
@@ -42,17 +40,19 @@ const adithya: Developer = {
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=cs,typescript,python,dart" />
+  <img src="https://skillicons.dev/icons?i=typescript,go,cs,python,dart" />
 </p>
 
 ### 🛠️ Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=unity,nextjs,nestjs,flutter,supabase,postgresql,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,unity,nextjs,nestjs,postgresql,express" />
 </p>
 
 ### 🔧 Additional Technologies
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![Supabase](https://img.shields.io/badge/-Supabase-34B27B?style=flat-square&logo=supabase&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
+![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
+![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
@@ -69,7 +69,7 @@ const adithya: Developer = {
 <td width="50%">
 
 ### Clausia - AI Legal Assistant
-*AI legal assistant for indie app/game devs*
+*AI privacy policy generator for indie app/game devs*
 
 ![AI Assistant](https://img.shields.io/badge/Vercel-Deployed-34A853?style=for-the-badge&logo=vercel&logoColor=white)
 
@@ -99,21 +99,18 @@ const adithya: Developer = {
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adithyas824@gmail.com)
 <br>
-**Email**
 
 </td>
 <td align="center" width="33%">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adithya-s-088272287/)
 <br>
-**Professional**
 
 </td>
 <td align="center" width="33%">
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/a_d_i_.x)
 <br>
-**Social**
 
 </td>
 </tr>
