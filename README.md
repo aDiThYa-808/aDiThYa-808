@@ -21,7 +21,7 @@ const adithya: Developer = {
   name: "Adithya",
   location: "Bengaluru, India",
   company: "Vincere Technology",
-  role: "Founder & Chief Product Officer",
+  role: "Founder",
   currentProject: "golang http server",
   interests: ["Backend Development", "Game Development", "AI Innovation"],
   vision: "To build software that simplifies and enhances people's lives"
