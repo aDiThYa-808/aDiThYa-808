@@ -10,8 +10,6 @@
 interface Developer {
   name: string;
   location: string;
-  company: string;
-  role: string;
   currentProject: string;
   interests: string[];
   vision: string;
@@ -20,8 +18,6 @@ interface Developer {
 const adithya: Developer = {
   name: "Adithya",
   location: "Bengaluru, India",
-  company: "Vincere Technology",
-  role: "Founder",
   currentProject: "PersonaBox - Create AI chats with custom personality",
   interests: ["Backend Development", "Game Development", "AI Innovation"],
   vision: "To build software that simplifies and enhances people's lives"
