@@ -34,12 +34,12 @@ const adithya: Developer = {
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=typescript,go,cs,python,dart" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,cs,python,dart" />
 </p>
 
 ### 🛠️ Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,unity,nextjs,nestjs,postgresql,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,unity,svelte,nextjs,nestjs,postgresql,express" />
 </p>
 
 ### 🔧 Additional Technologies
