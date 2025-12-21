@@ -34,17 +34,20 @@ const adithya: Developer = {
 
 ### 💻 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=go,typescript,cs,python,dart" />
+  <img src="https://skillicons.dev/icons?i=go,typescript,cs,python" />
 </p>
 
 ### 🛠️ Frameworks & Tools  
 <p>
-  <img src="https://skillicons.dev/icons?i=nodejs,unity,svelte,nextjs,nestjs,postgresql,express" />
+  <img src="https://skillicons.dev/icons?i=nodejs,unity,svelte,react,nextjs,nestjs,express" />
+</p>
+
+### ☁️ Cloud & Database  
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,vercel,supabase,postgresql,dynamodb,mongodb" />
 </p>
 
 ### 🔧 Additional Technologies
-![Supabase](https://img.shields.io/badge/-Supabase-34B27B?style=flat-square&logo=supabase&logoColor=white)
-![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
 ![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/-OpenAI-000000?style=flat-square&logo=openai&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
