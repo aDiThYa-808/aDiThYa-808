@@ -18,7 +18,7 @@ interface Developer {
 const adithya: Developer = {
   name: "Adithya",
   location: "Bengaluru, India",
-  currentProject: "PersonaBox - Create AI chats with custom personality",
+  currentProject: "Pasta At Night - A PSX style horror/comedy game for PC",
   interests: ["Backend Development", "Game Development", "AI Innovation"],
   vision: "To build software that simplifies and enhances people's lives"
 };
