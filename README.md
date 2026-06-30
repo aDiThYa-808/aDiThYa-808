@@ -11,15 +11,13 @@ interface Developer {
   name: string;
   location: string;
   currentProject: string;
-  interests: string[];
   vision: string;
 }
 
 const adithya: Developer = {
   name: "Adithya",
   location: "Bengaluru, India",
-  currentProject: "Pasta At Night - A PSX style horror/comedy game for PC",
-  interests: ["Backend Development", "Game Development", "AI Innovation"],
+  currentProject: "Pasta At Night - A PSX style horror game for PC",
   vision: "To build software that simplifies and enhances people's lives"
 };
 ```
